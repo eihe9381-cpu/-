@@ -1,6 +1,6 @@
 import React from "react";
 
-const paymentQR = "https://promptpay.io/0951234567.png";
+import paymentQR from "./assets/5.png";
 const pageLink = "https://m.me/105429995897909";
 
 export default function SpringfieldSeaResortPage() {
